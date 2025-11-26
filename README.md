@@ -20,7 +20,7 @@ Feel free to connect with me anytime!
 
 ### 🔗 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ambika-gunji-bb42ba258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
