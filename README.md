@@ -33,7 +33,7 @@ Feel free to connect with me anytime!
 
 <hr>
 
-<details>
+
   <summary><h3>&nbsp;Skills</h3></summary>
   
  
@@ -54,7 +54,7 @@ Feel free to connect with me anytime!
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 </p>
 
 <h4>⚙️ Backend Technologies</h4>
@@ -97,7 +97,7 @@ Feel free to connect with me anytime!
 
  
 
-</details>
+
 
 ---
 
