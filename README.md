@@ -1,6 +1,4 @@
-<h1 align="center"> Hi, I'm Ambika Gunji</a> </h1>
-
-
+<h1 align="center">Hi, I'm Ambika Gunji 👋</h1>
 
 <p align="justify">
 I am <b>Gunji Ambika</b>, an enthusiastic <b>B.Tech Graduate (CSE - IoT)</b> with a strong foundation in 
@@ -22,25 +20,27 @@ Feel free to connect with me anytime!
 
 ### 🔗 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ambika-gunji-bb42ba258/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="mailto:gunjiambika2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/gunjiambika2004" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
+  <a href="https://www.codechef.com/users/gunjiambika" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5B4638&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
 </div>
 
-<hr>
+---
 
-
-  <summary><h3>&nbsp;Skills</h3></summary>
-  
- 
-   <h2>Technical Skills</h2>
+<h2 align="center">💻 Technical Skills</h2>
 
 <h4>👩‍💻 Programming Languages</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%20Language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -49,64 +49,49 @@ Feel free to connect with me anytime!
 </p>
 
 <h4>🎨 Frontend Technologies</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
 </p>
 
 <h4>⚙️ Backend Technologies</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 <h4>🗄️ Databases</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <h4>🤖 Machine Learning & Data Science</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&color=0866FF"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%230866FF.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 <h4>🧰 Tools & Platforms</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
-<h4>☁️ Cloud & Others</h4>
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
- 
-
-
 
 ---
 
 <div align="center">
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gunjiambika2004)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-00599C?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gunjiambika)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)  
-
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gunjiambika)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 </div>
 
 <div align="center">
