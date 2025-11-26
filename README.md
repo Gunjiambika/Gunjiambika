@@ -89,3 +89,4 @@ Feel free to connect with me anytime!
 <div align="center">
 <h5>--- 🚀 Keep coding, keep exploring — and don’t forget to ⭐ your favorites! ---</h5>
 </div>
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=Gunjiambika&label=Profile%20views&color=5865f2&style=for-the-badge" alt="profile views" height="30"/></p>
