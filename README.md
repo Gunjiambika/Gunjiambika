@@ -87,5 +87,5 @@ Feel free to connect with me anytime!
 </div>
 
 <div align="center">
-<h5>--- Show some ❤️ by ⭐️ some of the repositories! ---</h5>
+<h5>--- 🚀 Keep coding, keep exploring — and don’t forget to ⭐ your favorites! ---</h5>
 </div>
