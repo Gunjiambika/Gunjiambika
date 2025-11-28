@@ -60,7 +60,6 @@ Feel free to connect with me anytime!
 <h4>🗄️ Databases</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <h4>🤖 Machine Learning & Data Science</h4>
